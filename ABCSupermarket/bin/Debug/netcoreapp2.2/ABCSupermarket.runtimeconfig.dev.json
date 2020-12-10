@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Prenoshan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Prenoshan\\.nuget\\packages"
+    ]
+  }
+}

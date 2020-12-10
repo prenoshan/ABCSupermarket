@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage.emulator",
+      "connectionId": "AzureStorageConnectionString-1",
+      "secretStore": "LocalSecretsFile"
+    },
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ABCSupermarketContext",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}
